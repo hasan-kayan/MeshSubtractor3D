@@ -1,0 +1,24 @@
+{
+  "name": "meshsubtractor3d",
+  "version": "0.0.1",
+  "description": "This library is created to specific geometry and mesh subtraction process for ThreeJs and using three-csg-ts library.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test3d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasan-kayan/MeshSubtractor3D.git"
+  },
+  "keywords": [
+    "3D",
+    "ThreeJS",
+    "CSG"
+  ],
+  "author": "Hasan Kayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasan-kayan/MeshSubtractor3D/issues"
+  },
+  "homepage": "https://github.com/hasan-kayan/MeshSubtractor3D#readme"
+}
