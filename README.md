@@ -1,5 +1,10 @@
 # Three.js Geometry Classes with CSG
 
+<p align="center">
+  <img src="assets/Three.js_Icon.svg.png" alt="Three JS"/>
+</p>
+
+
 This project provides a set of utility classes that extend the functionality of Three.js geometries with Constructive Solid Geometry (CSG) capabilities, using the three-csg-ts library. Our goal is to provide an easy-to-use interface for performing complex geometry operations such as union, subtraction, and intersection.
 
 ## Features
